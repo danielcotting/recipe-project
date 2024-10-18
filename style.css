@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-image: url(assets/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 24px 248px;
+    
+}
+#page img {
+    width: 100%;
+    border-radius: 24px;
+    background-color: blanchedalmond;
+    
+
+    
+}
+main {
+    padding: 24px;
+}
+
+#page {
+    background-color: rgb(225, 177, 115);
+    padding: 24px;
+    border-radius: 16px;
+
+   
+    
+}
+
+#about h1 {
+    margin-bottom: 15px;
+}
+.recipe-stats {
+margin-bottom: 10px ;
+}
+.recipe-stats p {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+#ingredients h2{
+    margin-bottom: 15px ;
+
+}
+
+#ingredients li {
+    margin-bottom: 5px;
+}
+
+#preparation h2 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+#preparation p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    color: white;
+    margin-top: 10px ;
+    text-align: center;
+    padding: 5px;
+
+}
+
+h2, h1 {
+    font-family: "Lobster", sans-serif;
+}
+p {
+    font-family: "EB Garamond", serif;
+}
+
+
